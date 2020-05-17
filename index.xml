@@ -18,7 +18,7 @@
       
       <guid>https://linkjie.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>安装Hugo  到Hugo Releases安装对应的操作系统版本的Hugo二进制文件. 设置环境变量
-建立网站 hugo new site username.github.io-cretor  添加主题 cd username.github.io-cretor git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml   新建文件 hugo new post/file.name  编辑内容 --- title: &amp;quot;My First Post&amp;quot; date: 2019-03-26T08:47:11+01:00 draft: true ---  启动服务 hugo server -D  点击http://localhost:1313/浏览站点 建立页面 hugo -D  github发布 1.在GitHub新建一个Repository命名为:username.github.io 2.将public文件上传到github git init git add . git commit -v git remote add origin git@github.</description>
+  建立网站 hugo new site username.github.io-cretor  添加主题 cd username.github.io-cretor git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.toml  新建文件 hugo new post/file.name  编辑内容 --- title: &amp;quot;My First Post&amp;quot; date: 2019-03-26T08:47:11+01:00 draft: true ---  启动服务 hugo server -D  点击http://localhost:1313/浏览站点 建立页面 hugo -D  github发布 1.在GitHub新建一个Repository命名为:username.github.io 2.将public文件上传到github git init git add . git commit -v git remote add origin git@github.</description>
     </item>
     
     <item>
