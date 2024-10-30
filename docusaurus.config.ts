@@ -62,7 +62,7 @@ const config: Config = {
     ],
   ],
 
-  themes: ['@docusaurus/theme-search-algolia'],
+  // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
