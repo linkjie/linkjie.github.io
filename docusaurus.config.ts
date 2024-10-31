@@ -143,7 +143,7 @@ const config: Config = {
       appId: "18ZPGP44TQ",
 
       //  公开 API 密钥：提交它没有危险
-      apiKey: "7752032f790ad26c2a53811b3e442efa",
+      apiKey: "79b517e5d6b3213785cac48c9e3c5537",
 
       indexName: "linkjieio",
 
