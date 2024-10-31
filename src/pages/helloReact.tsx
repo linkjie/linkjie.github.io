@@ -14,7 +14,7 @@ export default function Hello() {
         }}
       >
         <p>hellohellohellohellohellohellohello</p>
-        <div>测试测试测试</div>
+        <h1>peaprint peaprint</h1>
       </div>
     </Layout>
   );
