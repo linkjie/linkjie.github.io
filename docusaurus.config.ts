@@ -145,7 +145,7 @@ const config: Config = {
       //  公开 API 密钥：提交它没有危险
       apiKey: "7752032f790ad26c2a53811b3e442efa",
 
-      indexName: "Index",
+      indexName: "linkjieio",
 
       // 可选：见下文
       contextualSearch: true,
