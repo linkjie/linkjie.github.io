@@ -83,6 +83,12 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
+          to: "/helloReact",label:'helloReact',position:'left'
+        },
+        {
+          to: "/helloMarkDown",label:'helloMarkDown',position:'left'
+        },
+        {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
           position: "right",
