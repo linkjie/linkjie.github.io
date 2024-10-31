@@ -140,10 +140,10 @@ const config: Config = {
     },
     algolia: {
       // Algolia 提供的应用 ID
-      appId: "P2BS1K5ZF4",
+      appId: "18ZPGP44TQ",
 
       //  公开 API 密钥：提交它没有危险
-      apiKey: "12dd0ec5fb4e3262583ab8100e0c5726",
+      apiKey: "7752032f790ad26c2a53811b3e442efa",
 
       indexName: "Index",
 
