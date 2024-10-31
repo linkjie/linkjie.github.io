@@ -9,10 +9,21 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[hello]]></title>
-            <link>https://linkjie.github.io/blog/2022/01/01/hello</link>
-            <guid>https://linkjie.github.io/blog/2022/01/01/hello</guid>
+            <title><![CDATA[lkj Post]]></title>
+            <link>https://linkjie.github.io/blog/lkj-post</link>
+            <guid>https://linkjie.github.io/blog/lkj-post</guid>
             <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[hello, world]]></description>
+            <content:encoded><![CDATA[<p>hello, world</p>
+<p>hello, world
+hello, world
+hello, world
+hello, world
+hello, world
+hello, world</p>]]></content:encoded>
+            <category>lkj</category>
+            <category>Hello</category>
+            <category>world</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>

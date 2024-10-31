@@ -8,10 +8,21 @@
     <subtitle>My Site Blog</subtitle>
     <icon>https://linkjie.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[hello]]></title>
-        <id>https://linkjie.github.io/blog/2022/01/01/hello</id>
-        <link href="https://linkjie.github.io/blog/2022/01/01/hello"/>
+        <title type="html"><![CDATA[lkj Post]]></title>
+        <id>https://linkjie.github.io/blog/lkj-post</id>
+        <link href="https://linkjie.github.io/blog/lkj-post"/>
         <updated>2022-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hello, world]]></summary>
+        <content type="html"><![CDATA[<p>hello, world</p>
+<p>hello, world
+hello, world
+hello, world
+hello, world
+hello, world
+hello, world</p>]]></content>
+        <category label="lkj" term="lkj"/>
+        <category label="Hello" term="Hello"/>
+        <category label="world" term="world"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
