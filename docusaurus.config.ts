@@ -159,7 +159,7 @@ const config: Config = {
       indexName: "test2_pages",
 
       // 可选：见下文
-      // contextualSearch: true,
+      contextualSearch: true,
 
       // 可选：声明哪些域名需要用 window.location 型的导航而不是 history.push。 适用于 Algolia 配置会爬取多个文档站点，而我们想要用 window.location.href 在它们之间跳转时。
       // externalUrlRegex: 'external\\.com|domain\\.com',
@@ -171,13 +171,13 @@ const config: Config = {
       // },
 
       // 可选：Algolia 搜索参数
-      // searchParameters: {},
+      searchParameters: {},
 
       // 可选：默认启用的搜索页路径（传递 `false` 以禁用它）
-      // searchPagePath: "search",
+      searchPagePath: "search",
 
       // 可选：Docsearch 的 insights 功能是否启用（默认为 `false`）
-      // insights: false,
+      insights: false,
 
       //... 其他 Algolia 参数
     },
