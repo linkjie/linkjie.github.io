@@ -189,7 +189,7 @@ const config: Config = {
       // searchPagePath: "search",
 
       // // 可选：Docsearch 的 insights 功能是否启用（默认为 `false`）
-      // insights: false,
+      insights: false,
 
       //... 其他 Algolia 参数
     },
