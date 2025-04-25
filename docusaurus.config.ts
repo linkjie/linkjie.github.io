@@ -186,7 +186,7 @@ const config: Config = {
       searchParameters: {},
 
       // 可选：默认启用的搜索页路径（传递 `false` 以禁用它）启用时会新增一个/search搜索页
-      // searchPagePath: "search",
+      searchPagePath: "search",
 
       // // 可选：Docsearch 的 insights 功能是否启用（默认为 `false`）
       insights: false,
