@@ -183,7 +183,7 @@ const config: Config = {
       contextualSearch: true, //上下文搜索
 
       // 可选：Algolia 搜索时自定义的额外参数
-      // searchParameters: {},
+      searchParameters: {},
 
       // 可选：默认启用的搜索页路径（传递 `false` 以禁用它）启用时会新增一个/search搜索页
       // searchPagePath: "search",
