@@ -174,22 +174,22 @@ const config: Config = {
       // Algolia 提供的应用 ID
       appId: "LB2HK7ROT5",
 
-      //  公开 API 密钥：提交它没有危险
+      //  公开 API 密钥
       apiKey: "d33f6704c9450c7be9bfef05366e65bb",
 
       indexName: "test2_pages",
 
       // 可选
-      contextualSearch: true, //上下文搜索
+      // contextualSearch: true, //上下文搜索
 
       // 可选：Algolia 搜索时自定义的额外参数
-      searchParameters: {},
+      // searchParameters: {},
 
       // 可选：默认启用的搜索页路径（传递 `false` 以禁用它）启用时会新增一个/search搜索页
-      searchPagePath: "search",
+      // searchPagePath: "search",
 
       // // 可选：Docsearch 的 insights 功能是否启用（默认为 `false`）
-      insights: false,
+      // insights: false,
 
       //... 其他 Algolia 参数
     },
